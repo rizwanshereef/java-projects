@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/sort4ifelse.iml" filepath="$PROJECT_DIR$/sort4ifelse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sort4if.iml" filepath="$PROJECT_DIR$/sort4if.iml" />
     </modules>
   </component>
 </project>

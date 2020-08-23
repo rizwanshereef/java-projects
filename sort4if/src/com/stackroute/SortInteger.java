@@ -49,7 +49,7 @@ public class SortInteger
             c = temp;
         }
 
-        System.out.println("Sorted order:"+ a + " "+ b +" "+ " "+c+ " "+ d);
+        System.out.println("Sorted order:"+ a + " " + b + " " + " " + c + " " + d);
 
     }
 }
